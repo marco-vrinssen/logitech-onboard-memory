@@ -72,8 +72,8 @@ G HUB does not need to be installed, and it should be quit if it is.
 **1. Get the code**
 
 ```sh
-git clone https://github.com/marco-vrinssen/Logitech-Onboard-Memory-Manager-macOS-Unofficial.git
-cd Logitech-Onboard-Memory-Manager-macOS-Unofficial
+git clone https://github.com/marco-vrinssen/logitech-onboard-memory.git
+cd logitech-onboard-memory
 ```
 
 **2. Build the app**
